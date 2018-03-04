@@ -1,0 +1,33 @@
+/*
+
+Your styles go here!
+
+Hint! You'll probably want to start by styling:
+  * <body>
+  * <article>
+  * <h1>
+  * <img>
+
+I've left some boilerplate below for you.
+
+*/
+
+body {
+  padding: 20px 8vw;
+}
+
+article {
+  max-width: 1000px;
+  margin: auto;
+}
+
+h1 {
+
+}
+
+img:not(.emoji) {
+  width: 90vw;
+  max-width: 100%;
+  display: inline-block;
+  margin: auto;
+}
