@@ -22,10 +22,10 @@ article {
 }
 
 h1 {
-
+  text-align: center;
 }
 
-img:not(.emoji) {
+img {
   width: 90vw;
   max-width: 100%;
   display: inline-block;
